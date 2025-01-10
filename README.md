@@ -7,7 +7,7 @@
 </h2>
 
 <h4 align="center">
-    <i>One day, I found myself on the data analytics track, and now my life is the journey driven by data.</i>
+    <b>One day, I found myself on the data analytics track, and now my life is the journey driven by data.</b>
 </h4>
 
 <p align="center">
