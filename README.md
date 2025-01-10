@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-    <b>One day, I found myself on the data analytics track, and now my life is the journey driven by data.</b>
+    One day, I found myself on the data analytics track, and now my life is the journey driven by data.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
         <img src="https://camo.githubusercontent.com/316d8f7c978293bb876edbbf72de1cc0a0d18b70d4ba287d4597ee085eda0b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="gmail" /></a>
 </p>
 
----
+
 
 <p align="center">
     :pushpin: <strong>Skills</strong>: 
@@ -32,7 +32,7 @@
     <code>Tableau</code>
 </p>
 
----
+
 
 <p align="center">
     :pushpin: <strong>Projects</strong>:
