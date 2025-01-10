@@ -1,10 +1,10 @@
-<h1 align="center">
+<h2 align="center">
     Hello! I'm Ekaterina
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40" />
-</h1>
+</h2>
 
 <p align="center">
     One day, I found myself on the data analytics track, and now my life is the journey driven by data.
