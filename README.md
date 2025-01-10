@@ -19,7 +19,7 @@
 
 ### :hammer_and_wrench: Skills
 
-<p align="center"> 
+<h5 align="center"> 
     <code>Python</code>, 
     <code>SQL</code>, 
     <code>ClickHouse</code>, 
@@ -29,7 +29,7 @@
     <code>Apache Airflow</code>, 
     <code>Apache Superset</code>, 
     <code>Tableau</code>
-</p>
+</h5>
 
 ### :woman_technologist: Projects
 
