@@ -31,6 +31,6 @@
     <code>Tableau</code>
 </p>
 
-### :pushpin: Projects
+### :woman_technologist: Projects
 
 
