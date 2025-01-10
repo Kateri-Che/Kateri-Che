@@ -6,9 +6,9 @@
          width="40" />
 </h2>
 
-<h4 align="center">
+<h3 align="center">
     <b>One day, I found myself on the data analytics track, and now my life is the journey driven by data.</b>
-</h4>
+</h3>
 
 <p align="center">
     <a href="https://t.me/Kateri_Che">
