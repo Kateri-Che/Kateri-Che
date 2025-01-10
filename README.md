@@ -17,10 +17,11 @@
         <img src="https://camo.githubusercontent.com/316d8f7c978293bb876edbbf72de1cc0a0d18b70d4ba287d4597ee085eda0b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="gmail" /></a>
 </p>
 
+<h3 align="left">
+    :pushpin: <strong>Skills</strong>
+</h3>
 
-
-<p align="center">
-    :pushpin: <strong>Skills</strong>: 
+<p align="center"> 
     <code>Python</code>, 
     <code>SQL</code>, 
     <code>ClickHouse</code>, 
@@ -32,9 +33,7 @@
     <code>Tableau</code>
 </p>
 
-
-
-<p align="center">
-    :pushpin: <strong>Projects</strong>:
-</p>
+<h3 align="left">
+    :pushpin: <strong>Projects</strong>
+</h3>
 
