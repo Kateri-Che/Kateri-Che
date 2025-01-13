@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello! I'm Ekaterina
+    Привет! Меня зовут Екатерина
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
@@ -17,7 +17,7 @@
         <img src="https://camo.githubusercontent.com/316d8f7c978293bb876edbbf72de1cc0a0d18b70d4ba287d4597ee085eda0b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="gmail" /></a>
 </p>
 
-### :hammer_and_wrench: Skills
+### :hammer_and_wrench: Языки и инструменты
 
 <h5 align="center"> 
     <code>Python</code>, 
@@ -31,7 +31,8 @@
     <code>Tableau</code>
 </h5>
 
-### :woman_technologist: Projects
+### :woman_technologist: Проекты
 
-| Project name     | Discription  | Tools
+| Название проекта     | Описание  | Стек
 :------------------|:-------------|:------
+|[Анализ внедрения системы рекомендаций товаров в приложение по доставке продуктов по результатам проведенного AB-теста](https://github.com/Kateri-Che/ab-test-delivery-app)|Оценка работы системы рекомендации товаров по результатам AB-теста: выбор метрик, сравнение их в тестовой и контрольной группах с помощью статистических тестов (ANOVA, t-тест)|pandas, numpy, scipy.stats, pingouin, statsmodels, seaborn, matplotlib
