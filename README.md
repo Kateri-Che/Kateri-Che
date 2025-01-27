@@ -40,7 +40,7 @@
 
 | Название проекта     | Описание  | Стек
 :------------------|:-------------|:------|
-|[Автоматизация еженедельной отчетности](https://github.com/Kateri-Che/weekly-reports-telegram)|Создание DAG-а для сбора информации о еженедельных метриках и автоматической отправки отчета в telegram-чат|airflow, telegram, pandas, pandahouse, clickhouse, io, seaborn, matplotlib, os|
+|[Автоматизация еженедельной отчетности](https://github.com/Kateri-Che/weekly-reports-telegram)|Создание DAG-а для сбора информации о еженедельных метриках компании и автоматической отправки отчета в telegram-чат|airflow, telegram, pandas, pandahouse, clickhouse, io, seaborn, matplotlib, os|
 |[Реализация ETL-пайплайна](https://github.com/Kateri-Che/etl-project)|Создание DAG-а для сбора информации о метриках и загрузки данных в таблицу в ClickHouse| airflow, pandas, pandahouse, clickhouse, numpy, os|
 |[API музейной коллекции](https://github.com/Kateri-Che/museum-collection-requests)| Сбор и обработка данных об объектах музея через API музейной коллекции|requests, pandas, json|
 |[Анализ результатов AB-теста по внедрению системы рекомендаций товаров в приложение по доставке продуктов](https://github.com/Kateri-Che/ab-test-delivery-app)|Оценка обоснованности внедрения системы рекомендаций товаров на основе результатов AB-теста: предобработка данных, выбор ключевых метрик и сравнение их между тестовой и контрольной группами с помощью статистических тестов (ANOVA, t-тест)|pandas, numpy, scipy, pingouin, statsmodels, seaborn, matplotlib|
