@@ -30,13 +30,9 @@
     <code>SQL</code>, 
     <code>ClickHouse</code>, 
     <code>PostgreSQL</code>, 
-    <code>Redash</code>
-</h5>
-<h5 align="center">
+    <code>Redash</code>,
     <code>Apache Superset</code>, 
-    <code>Tableau</code>
-</h5>
-<h5 align="center"> 
+    <code>Tableau</code>,
     <code>Git</code>, 
     <code>Apache Airflow</code>
 </h5>
