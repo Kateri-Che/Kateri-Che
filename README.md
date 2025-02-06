@@ -24,7 +24,7 @@
 ### :hammer_and_wrench: Языки и инструменты
 
 <h5 align="center"> 
-    <code>Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels, pingouin, requests, json, io)</code>
+    <code>Python (pandas, pandahouse, numpy, matplotlib, seaborn, scipy, statsmodels, pingouin, requests, json, io)</code>
 </h5>
 <h5 align="center"> 
     <code>SQL</code>, 
