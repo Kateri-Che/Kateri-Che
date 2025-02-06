@@ -41,7 +41,7 @@
 
 | Название проекта     | Описание  | Стек
 :------------------|:-------------|:------|
-|[Автоматизация еженедельной отчетности компании](https://github.com/Kateri-Che/weekly-reports-telegram)|Написание DAG-а для сбора информации о еженедельных метриках бизнеса и автоматической отправки отчета в telegram-чат|airflow, telegram, pandas, pandahouse, clickhouse, io, seaborn, matplotlib, os|
+|[Автоматизация еженедельной отчетности](https://github.com/Kateri-Che/weekly-reports-telegram)|Написание DAG-а для сбора информации о еженедельных метриках бизнеса и автоматической отправки отчета в telegram-чат|airflow, telegram, pandas, pandahouse, clickhouse, io, seaborn, matplotlib, os|
 |[Построение ETL-пайплайна](https://github.com/Kateri-Che/etl-project)|Написание DAG-а для сбора информации о метриках бизнеса и загрузки данных в таблицу в ClickHouse| airflow, pandas, pandahouse, clickhouse, numpy, os|
 |[API музейной коллекции](https://github.com/Kateri-Che/museum-collection-requests)| Сбор и обработка данных об объектах музея через API музейной коллекции|requests, pandas, json|
 |[Анализ результатов AB-теста по изменению стоимости премиум-подписки в приложении знакомств](https://github.com/Kateri-Che/ab-test-dating-app)|Оценка успешности проведенного эксперимента по изменению стоимости премиум-подписки и его влияние на бизнес: детектирование аномалий в данных, исследование системы сплитования по группам, выбор ключевых метрик и проведение статистических тестов (Краскела-Уоллиса, хи-квадрат, t-тест)|pandas, numpy, scipy, pingouin, seaborn, matplotlib|
