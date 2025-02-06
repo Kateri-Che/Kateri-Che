@@ -24,16 +24,21 @@
 ### :hammer_and_wrench: Языки и инструменты
 
 <h5 align="center"> 
-    <code>Python</code>, 
+    <code>Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels, pingouin, requests, json, io)</code>
+</h5>
+<h5 align="center"> 
     <code>SQL</code>, 
     <code>ClickHouse</code>, 
     <code>PostgreSQL</code>, 
-    <code>Redash</code>,
-    <code>Tabix</code>,
-    <code>Git</code>, 
-    <code>Apache Airflow</code>, 
+    <code>Redash</code>
+</h5>
+<h5 align="center">
     <code>Apache Superset</code>, 
     <code>Tableau</code>
+</h5>
+<h5 align="center"> 
+    <code>Git</code>, 
+    <code>Apache Airflow</code>
 </h5>
 
 ### :woman_technologist: Проекты
